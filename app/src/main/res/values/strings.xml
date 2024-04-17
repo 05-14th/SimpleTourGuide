@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">SimpleTourGuide</string>
+    <string name="app_name">GoBagasbas TG</string>
+    <string name="bagasbasDesc">
+    <div style="text-align: center;"><b>Welcome to Bagasbas Beach</b></div>\n\n <div style="text-align: justify;">Bagasbas Beach is a picturesque stretch of coastline nestled along the eastern shores of Daet, the capital of Camarines Norte province in the Philippines. Renowned for its pristine beauty and excellent surfing conditions, Bagasbas is a haven for both local surfers and tourists seeking sun, sand, and sea adventures.\n\n
+    The beach boasts a long crescent-shaped shoreline lined with fine golden sand, fringed by coconut palms swaying gently in the tropical breeze. The azure waters of the Pacific Ocean gently lap against the shore, inviting visitors to take a refreshing dip or try their hand at surfing.\n\n
+    Surrounded by lush greenery and backed by rolling hills, Bagasbas offers a serene and tranquil setting, perfect for relaxation and rejuvenation. Whether you\'re lounging on the beach, enjoying a leisurely stroll along the shore, or simply admiring the stunning sunrise or sunset, the natural beauty of Bagasbas never fails to captivate.\n\n
+    For surfing enthusiasts, Bagasbas is a paradise. The beach boasts consistent waves throughout the year, making it an ideal destination for surfers of all skill levels. Beginners can take lessons from local instructors, while more experienced surfers can challenge themselves on the waves that break offshore.\n\n
+    Apart from surfing, Bagasbas offers a range of other activities to enjoy, including beach volleyball, kite flying, and beachcombing. Visitors can also sample delicious local cuisine at nearby eateries, featuring fresh seafood and traditional Filipino dishes.\n\n
+    With its breathtaking beauty, fantastic surfing opportunities, and laid-back atmosphere, Bagasbas Beach is a must-visit destination for anyone seeking a tropical paradise getaway in the Philippines.</div>\n\n\n
+    </string>
 </resources>
