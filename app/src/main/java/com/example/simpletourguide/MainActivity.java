@@ -1,3 +1,13 @@
+//Simple Tour Guide App
+/*
+Members:
+1. Gerry Vien Flores - Implementation of Slider and Auto Scroll
+2. Krizza Heart Esperas - Images and Contents
+3. Janelle Montes - Maps and Navigation Functionality
+4. Hanny Ognita - Design
+*/
+
+
 package com.example.simpletourguide;
 
 import android.content.Intent;
